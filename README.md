@@ -1,5 +1,5 @@
 <center>
-    <h1 style="color: purple;"> Usual lenguages levels </h1>
+    <h1 style="font-size:300%;"> Usual lenguages levels </h1>
     <h2 style="color: green;"> High Level: Python, HTML, CSS </h2>
     <h2 style="color: orange;"> Medium Level: C, C++ </h2>
     <h2 style="color: red;"> Low Level: Javascript </h2>
