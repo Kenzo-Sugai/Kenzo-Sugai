@@ -1,6 +1,6 @@
 <center>
     <h1> Usual languages levels </h1>
-    - High Level: Python, HTML, CSS
+    - High Level: Python
     <br>
     - Medium Level: C, C++
     <br>
