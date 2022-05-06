@@ -2,7 +2,7 @@
     <h1> Usual languages levels </h1>
     - High Level: Python
     <br>
-    - Medium Level: C, C++
+    - Medium Level: C, C++, HTML, CSS
     <br>
     - Low Level: Javascript
     <br>
