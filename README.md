@@ -1,5 +1,5 @@
 <center>
-    <h1> Usual lenguages levels </h1>
+    <h1> Usual languages levels </h1>
     - High Level: Python, HTML, CSS
     <br>
     - Medium Level: C, C++
