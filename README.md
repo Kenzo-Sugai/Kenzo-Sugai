@@ -17,7 +17,7 @@
        <p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kenzo-Sugai&hide_border=true&theme=radical"  alt="Kenzo's github stats"/></a></p>
       </td>
        <td>
-        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kenzo-Sugai&layout=compact&langs_count=20&hide_border=true&theme=radical" alt="Kenzo's github stats"/> </a></p>
+        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.PAT_1.app/api/top-langs?username=Kenzo-Sugai&layout=compact&langs_count=20&hide_border=true&theme=radical" alt="Kenzo's github stats"/> </a></p>
       </td>
       </tr>
 </center>
