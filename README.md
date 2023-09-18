@@ -5,12 +5,12 @@
     - Medium Level: Javascript, Java
     <br>
     <h1> Usual frameworks/tools </h1>
-    - Data Structure
-    - Software Engineer
-    - Data Analysis
-    - Data Science
-    - Complexity Algorithms
-    - Programming marathon
+    - Data Structure <br>
+    - Software Engineer <br>
+    - Data Analysis <br>
+    - Data Science <br>
+    - Complexity Algorithms <br>
+    - Programming marathon <br>
     <br>
     <br>
     <tr>
