@@ -1,13 +1,16 @@
 <center>
     <h1> Usual languages levels </h1>
-    - High Level: Python
+    - High Level: Python, C/C++
     <br>
-    - Medium Level: C, C++, HTML, CSS
-    <br>
-    - Low Level: Javascript
+    - Medium Level: Javascript, Java
     <br>
     <h1> Usual frameworks/tools </h1>
-    - VSCode, Node, MatplotLib, Standard Template Library, Discord.js, Tkinter
+    - Data Structure
+    - Software Engineer
+    - Data Analysis
+    - Data Science
+    - Complexity Algorithms
+    - Programming marathon
     <br>
     <br>
     <tr>
