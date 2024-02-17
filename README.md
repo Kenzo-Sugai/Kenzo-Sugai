@@ -1,6 +1,6 @@
 <center>
     <h1> Usual languages levels </h1>
-    - High Level: Python, C/C++
+    - High Level: Python, C/C++, SQL
     <br>
     - Medium Level: Javascript, Java
     <br>
@@ -10,7 +10,9 @@
     - Data Analysis <br>
     - Data Science <br>
     - Complexity Algorithms <br>
-    - Programming marathon <br>
+    - Programming Marathon <br>
+    - React Native <br>
+    - Pyspark/Pyodbc <br>
     <br>
     <h1> Repositories </h1>
     - Neural Network in C++: https://github.com/Kenzo-Sugai/KNN <br>
