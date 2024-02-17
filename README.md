@@ -12,12 +12,12 @@
     - Complexity Algorithms <br>
     - Programming marathon <br>
     <br>
-    <h1>Repositories</h1>
-    - Neural Network in C++: https://github.com/Kenzo-Sugai/KNN
-    - Maratona de Programação SBC's C++ codes: https://github.com/Kenzo-Sugai/MaratonaSBC-codes
-    - DFA Implementation: https://github.com/Kenzo-Sugai/DFA_Implementation
-    - Twitter copy in React Native mobile: https://github.com/Kenzo-Sugai/reactNativeProject
-    - Wordle copy in Java: https://github.com/Kenzo-Sugai/Wordle
+    <h1> Repositories </h1>
+    - Neural Network in C++: https://github.com/Kenzo-Sugai/KNN <br>
+    - Maratona de Programação SBC's C++ codes: https://github.com/Kenzo-Sugai/MaratonaSBC-codes <br>
+    - DFA Implementation: https://github.com/Kenzo-Sugai/DFA_Implementation <br>
+    - Twitter copy in React Native mobile: https://github.com/Kenzo-Sugai/reactNativeProject <br>
+    - Wordle copy in Java: https://github.com/Kenzo-Sugai/Wordle <br>
     <br>
     <tr>
       <td>
